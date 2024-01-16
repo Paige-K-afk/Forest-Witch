@@ -87,30 +87,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FBCAEA53A608C314E77C923EC9E026F7EF63B5F8",
-			"Assets": [
-				"/Game/Materials/M_Water"
-			]
-		},
-		{
-			"ShaderMapHash": "7C7C2B5E00E35CF3C2C29621E47ADEA32572355C",
-			"Assets": [
-				"/Game/Materials/M_PlantBase"
-			]
-		},
-		{
-			"ShaderMapHash": "3883A5FCA39014A9F9C56361CAE2B98E8882C2E0",
-			"Assets": [
-				"/Game/Materials/M_GreyRockBase"
-			]
-		},
-		{
-			"ShaderMapHash": "5FB668975B7F3177F14E8C3ECCB5A3D1A9A72C75",
-			"Assets": [
-				"/Game/Materials/M_ClothBase"
-			]
-		},
-		{
 			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -227,36 +203,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2BC9D1086EA9B18808E29F183EA8FCD263F11FDA",
-			"Assets": [
-				"/Game/StylizedForestPack/M_Tree_bark_02"
-			]
-		},
-		{
-			"ShaderMapHash": "C973E511E848273D16733CDFC0B49E6B12F1B41A",
-			"Assets": [
-				"/Game/StylizedForestPack/M_Rock_Ground"
-			]
-		},
-		{
-			"ShaderMapHash": "3FD458DB1AC61ABBB3596065D3087BC15FCEE681",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Grass"
-			]
-		},
-		{
-			"ShaderMapHash": "811D42554B9F15DA6DE10FD11C0AEE7E50E0F6C5",
-			"Assets": [
-				"/Game/Materials/M_Wood"
-			]
-		},
-		{
-			"ShaderMapHash": "90EC060D3CE7A366FB52397BC74DD897D8E0C7F0",
-			"Assets": [
-				"/Game/Materials/M_Tutorial"
-			]
-		},
-		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -320,6 +266,60 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "FBCAEA53A608C314E77C923EC9E026F7EF63B5F8",
+			"Assets": [
+				"/Game/Materials/M_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "90EC060D3CE7A366FB52397BC74DD897D8E0C7F0",
+			"Assets": [
+				"/Game/Materials/M_Tutorial"
+			]
+		},
+		{
+			"ShaderMapHash": "811D42554B9F15DA6DE10FD11C0AEE7E50E0F6C5",
+			"Assets": [
+				"/Game/Materials/M_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "3FD458DB1AC61ABBB3596065D3087BC15FCEE681",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "C973E511E848273D16733CDFC0B49E6B12F1B41A",
+			"Assets": [
+				"/Game/StylizedForestPack/M_Rock_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "2BC9D1086EA9B18808E29F183EA8FCD263F11FDA",
+			"Assets": [
+				"/Game/StylizedForestPack/M_Tree_bark_02"
+			]
+		},
+		{
+			"ShaderMapHash": "5FB668975B7F3177F14E8C3ECCB5A3D1A9A72C75",
+			"Assets": [
+				"/Game/Materials/M_ClothBase"
+			]
+		},
+		{
+			"ShaderMapHash": "7C7C2B5E00E35CF3C2C29621E47ADEA32572355C",
+			"Assets": [
+				"/Game/Materials/M_PlantBase"
+			]
+		},
+		{
+			"ShaderMapHash": "3883A5FCA39014A9F9C56361CAE2B98E8882C2E0",
+			"Assets": [
+				"/Game/Materials/M_GreyRockBase"
 			]
 		}
 	]
