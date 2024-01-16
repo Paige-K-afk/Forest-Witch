@@ -1,10 +1,15 @@
+# IMPORTANT
+If downloading the ZIP and attemtping to run the game fails, clone the repository.
+When cloning the repository, be aware it uses LFS. It may require multiple attempts to clone.
+the game exe will run from a cloned repository.
+
 # Forest-Witch
 Forest witch is a stealth horror inspired game, combining my favourite parts of the gameplay of FNAF: Security Breach with aesthetics inspired by Inscrypion and various DS titles, that was developed as my coursework for the Game Behaviour module at the University of derby.
 
 
 # File Directory
 The folder "Project Files" contains the project files that can be used to re-build the solution.
-The folder "Standalone" contains a folder that contains the exe file.
+The folder "Standalone" contains a folder that contains the exe file. This exe will only run if you have cloned the repository.
 
 
 # The version number of unreal used to produce the game. 
