@@ -1,0 +1,1559 @@
+﻿Log file open, 01/03/23 16:08:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=46960)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StealthWitch
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\paige\Documents\Uni Work\Year 3\Game Behaviour\_GameDesign\StealthWitch\StealthWitch\StealthWitch.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2364] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ab33b24d44837f4fe5f01aa4a6e88d42"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 2.167122
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9F03AD48458DB7023BD3019ABF3B8E7C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.09 seconds
+LogConfig: Display: Loading Android ini files took 0.09 seconds
+LogConfig: Display: Loading Unix ini files took 0.11 seconds
+LogConfig: Display: Loading TVOS ini files took 0.11 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.13 seconds
+LogConfig: Display: Loading Linux ini files took 0.13 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2364] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/paige/Documents/UnrealEngine/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.03-16.08.24:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.03-16.08.24:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.03-16.08.24:535][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.03-16.08.24:536][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.03-16.08.24:541][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.03-16.08.24:541][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.03-16.08.24:541][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.03-16.08.24:541][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.03-16.08.24:541][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.03-16.08.24:541][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.03-16.08.24:542][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.03-16.08.24:542][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.03-16.08.24:542][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.03-16.08.24:542][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.03-16.08.24:542][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.03-16.08.24:590][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.03-16.08.24:590][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.03-16.08.24:848][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 with Max-Q Design (Max supported Feature Level 12_1, shader model 6.5)
+[2023.01.03-16.08.24:848][  0]LogD3D12RHI: Adapter has 8031MB of dedicated video memory, 0MB of dedicated system memory, and 8107MB of shared system memory, 1 output[s]
+[2023.01.03-16.08.24:922][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.01.03-16.08.24:922][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8107MB of shared system memory, 0 output[s]
+[2023.01.03-16.08.24:940][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.03-16.08.24:940][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8107MB of shared system memory, 0 output[s]
+[2023.01.03-16.08.24:941][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.03-16.08.24:942][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.03-16.08.24:943][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.03-16.08.24:943][  0]LogHAL: Display: Platform has ~ 16 GB [17002713088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.03-16.08.24:944][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.03-16.08.24:944][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.03-16.08.24:944][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.03-16.08.24:945][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.03-16.08.24:945][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.03-16.08.24:945][  0]LogInit: Computer: PAIGES-OTHER-LA
+[2023.01.03-16.08.24:945][  0]LogInit: User: paige
+[2023.01.03-16.08.24:945][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.03-16.08.24:945][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.03-16.08.24:945][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.01.03-16.08.24:945][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.03-16.08.24:945][  0]LogMemory: Process Physical Memory: 276.96 MB used, 281.31 MB peak
+[2023.01.03-16.08.24:945][  0]LogMemory: Process Virtual Memory: 228.75 MB used, 228.75 MB peak
+[2023.01.03-16.08.24:945][  0]LogMemory: Physical Memory: 10294.13 MB used,  5920.92 MB free, 16215.05 MB total
+[2023.01.03-16.08.24:945][  0]LogMemory: Virtual Memory: 16296.66 MB used,  16302.39 MB free, 32599.05 MB total
+[2023.01.03-16.08.24:945][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.03-16.08.24:958][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.03-16.08.25:007][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.03-16.08.25:011][  0]LogInit: Using OS detected language (en-GB).
+[2023.01.03-16.08.25:011][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.03-16.08.25:037][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.01.03-16.08.25:330][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.03-16.08.25:352][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.03-16.08.25:352][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.03-16.08.25:352][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.01.03-16.08.25:396][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.03-16.08.25:396][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.03-16.08.25:906][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.03-16.08.25:911][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.03-16.08.25:911][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.03-16.08.26:070][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2023.01.03-16.08.26:176][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.03-16.08.26:187][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.03-16.08.26:209][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.03-16.08.26:630][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.03-16.08.26:630][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.03-16.08.26:720][  0]LogD3D12RHI: Warning: Indirect ray tracing dispatch is disabled because of known bugs in the current driver. Please update to NVIDIA driver version 466.11 or newer.
+[2023.01.03-16.08.26:720][  0]LogD3D12RHI:     GPU DeviceId: 0x1f14 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.03-16.08.26:720][  0]LogWindows: Attached monitors:
+[2023.01.03-16.08.26:720][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.03-16.08.26:720][  0]LogWindows: Found 1 attached monitors.
+[2023.01.03-16.08.26:720][  0]LogWindows: EnumDisplayDevices:
+[2023.01.03-16.08.26:720][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.03-16.08.26:721][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.03-16.08.26:721][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.03-16.08.26:722][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.03-16.08.26:722][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.03-16.08.26:722][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.03-16.08.26:723][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.03-16.08.26:723][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.03-16.08.26:723][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2023.01.03-16.08.26:723][  0]LogD3D12RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2023.01.03-16.08.26:723][  0]LogD3D12RHI:      Driver Date: 7-5-2020
+[2023.01.03-16.08.26:723][  0]LogRHI: Texture pool is 4575 MB (70% of 6536 MB)
+[2023.01.03-16.08.26:723][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.03-16.08.26:723][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.03-16.08.26:759][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.03-16.08.27:949][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 2070 with Max-Q Design
+Installed: 451.67
+Recommended: 516.25
+[2023.01.03-16.08.27:972][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/StealthWitch.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/TurnkeyReport_0.log" -log="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/TurnkeyLog_0.log" -project="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/StealthWitch.uproject"  -platform=all'
+[2023.01.03-16.08.27:972][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Users/paige/Documents/UnrealEngine/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/StealthWitch.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/TurnkeyReport_0.log" -log="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/TurnkeyLog_0.log" -project="C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/StealthWitch.uproject"  -platform=all" ]
+[2023.01.03-16.08.28:035][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.03-16.08.28:067][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.03-16.08.28:067][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.03-16.08.28:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.03-16.08.28:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.03-16.08.28:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.03-16.08.28:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.03-16.08.28:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.03-16.08.28:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.03-16.08.28:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.03-16.08.28:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.03-16.08.28:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.03-16.08.28:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.03-16.08.28:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.03-16.08.28:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.03-16.08.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.03-16.08.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.03-16.08.28:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.03-16.08.28:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.03-16.08.28:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.03-16.08.28:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.03-16.08.28:183][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.03-16.08.28:204][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.03-16.08.28:210][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.03-16.08.28:210][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.03-16.08.28:210][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.03-16.08.28:210][  0]LogTargetPlatformManager:   PCM
+[2023.01.03-16.08.28:216][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.03-16.08.28:216][  0]LogTargetPlatformManager:   BINKA
+[2023.01.03-16.08.28:217][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.03-16.08.28:217][  0]LogTargetPlatformManager:   OGG
+[2023.01.03-16.08.28:217][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.03-16.08.28:217][  0]LogTargetPlatformManager:   OPUS
+[2023.01.03-16.08.28:370][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.03-16.08.28:385][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.03-16.08.28:394][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.03-16.08.28:394][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.03-16.08.28:395][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.03-16.08.28:395][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.03-16.08.28:395][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.03-16.08.28:395][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.03-16.08.28:395][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.03-16.08.28:395][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.03-16.08.28:398][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.03-16.08.28:399][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.03-16.08.28:399][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.03-16.08.28:400][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.03-16.08.28:406][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.03-16.08.28:407][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.03-16.08.28:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.03-16.08.28:407][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.03-16.08.28:446][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.03-16.08.28:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.03-16.08.28:447][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.03-16.08.28:467][  0]LogDerivedDataCache: Speed tests for C:/Users/paige/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.01.03-16.08.28:467][  0]LogDerivedDataCache: Display: Performance to C:/Users/paige/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=153.93MBs, RandomWriteSpeed=82.56MBs. Assigned SpeedClass 'Local'
+[2023.01.03-16.08.28:469][  0]LogDerivedDataCache: Using Local data cache path C:/Users/paige/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.03-16.08.28:469][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.03-16.08.28:469][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.03-16.08.28:481][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.03-16.08.28:481][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.03-16.08.28:488][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Intermediate/Shaders/WorkingDirectory/44920/).
+[2023.01.03-16.08.28:489][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/paige/AppData/Local/Temp/UnrealShaderWorkingDir/2B5EF82344C098431CA8F192F6A60517/'.
+[2023.01.03-16.08.28:489][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.03-16.08.28:489][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.01.03-16.08.31:625][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.03-16.08.31:626][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.03-16.08.31:630][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.03-16.08.31:721][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2023.01.03-16.08.31:735][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.03-16.08.32:163][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.03-16.08.32:168][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.03-16.08.32:866][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.03-16.08.32:866][  0]LogDeviceProfileManager: Active device profile: [00000824F7346900][00000824EA790000 50] WindowsEditor
+[2023.01.03-16.08.32:866][  0]LogDeviceProfileManager: Profiles: [00000824F73463C0][00000824EA792800 50] Windows, [00000824F7346900][00000824EA790000 50] WindowsEditor, [00000824F73447C0][00000824EA79A000 50] WindowsServer, [00000824F7344600][00000824DF207800 50] WindowsClient, [00000824F73424C0][00000824EA747800 50] IOS, [00000824F7342680][00000824EA795000 50] iPadAir2, [00000824F7345E80][00000824F7610000 50] IPadPro, [00000824F73455C0][00000824F7612800 50] iPadAir3, [00000824F7346200][00000824F7617800 50] iPadAir4, [00000824F7345CC0][00000824F761A000 50] iPadMini4, [00000824F7342140][00000824F761C800 50] iPadMini5, [00000824F7344D00][00000824EA745000 50] iPadMini6, [00000824F734A100][00000824F75F2800 50] iPhone6S, [00000824F734A480][00000824F75F0000 50] iPhone7, [00000824F734A800][00000824F75F5000 50] iPodTouch7, [00000824F7341DC0][00000824F75FA000 50] iPhone6SPlus, [00000824F73494C0][00000824F75FC800 50] iPhone7Plus, [00000824F7342A00][00000824F7615000 50] iPhoneSE, [00000824F7343100][00000824F75F7800 50] iPhone8, [00000824F7349140][00000824F7620000 50] iPhone8Plus, [00000824F7345080][00000824F7625000 50] iPhoneX, [00000824F7343640][00000824F7627800 50] iPhoneXS, [00000824F7342F40][00000824F762A000 50] iPhoneXSMax, [00000824F7345940][00000824F762C800 50] iPhoneXR, [00000824F7343480][00000824F103C800 50] iPhone11, [00000824F7348DC0][00000824F7640000 50] iPhone11Pro, [00000824F7343B80][00000824F7645000 50] iPhone11ProMax, [00000824F7349F40][00000824F7647800 50] iPhoneSE2, [00000824F7347C40][00000824F764A000 50] iPhone12Mini, [00000824F7349680][00000824F764C800 50] iPhone12, [00000824F7349D80][00000824F7622800 50] iPhone12Pro, [00000824F7346E40][00000824F7650000 50] iPhone12ProMax, [00000824F7344280][00000824F7655000 50] iPhone13Mini, [00000824F7348880][00000824F7657800 50] iPhone13, [00000824F7346C80][00000824F765A000 50] iPhone13Pro, [00000824F73486C0][00000824F765C800 50] iPhone13ProMax, [00000824F7346740][00000824F7642800 50] iPadPro105, [00000824F7345400][00000824F7670000 50] iPadPro129, [00000824F7342840][00000824F7675000 50] iPadPro97, [00000824F7342300][00000824F7677800 50] iPadPro2_129, [00000824F7345780][00000824F767A000 50] iPad5, [00000824F7343D40][00000824F767C800 50] iPad6, [00000824F7345B00][00000824F7652800 50] iPad7, [00000824F73440C0][00000824F7680000 50] iPad8, [00000824F7349300][00000824F7685000 50] iPad9, [00000824F7344B40][00000824F7687800 50] iPadPro11, [00000824F7348500][00000824F768A000 50] iPadPro2_11, [00000824F7349BC0][00000824F768C800 50] iPadPro3_11, [00000824F7349840][00000824F7672800 50] iPadPro3_129, [00000824F7343F00][00000824F7690000 50] iPadPro4_129, [00000824F7344980][00000824F7695000 50] iPadPro5_129, [00000824F7347E00][00000824F7697800 50] AppleTV, [00000824F73478C0][00000824F769A000 50] AppleTV4K, [00000824F7348A40][00000824F769C800 50] TVOS, [00000824F734C080][00000824F76B0000 50] Mac, [00000824F734C400][00000824F76B2800 50] MacEditor, [00000824F734A9C0][00000824F76B7800 50] MacClient, [00000824F734C5C0][00000824F76BA000 50] MacServer, [00000824F734BEC0][00000824F7682800 50] Linux, [00000824F7348180][00000824F7692800 50] LinuxEditor, [00000824F7342BC0][00000824F76BC800 50] LinuxArm64Editor, [00000824F734B0C0][00000824F76A0000 50] LinuxArm64, [00000824F7347A80][00000824F76A5000 50] LinuxClient, [00000824F734B980][00000824F76A7800 50] LinuxArm64Client, [00000824F7347000][00000824F76AA000 50] LinuxServer, [00000824F734B7C0][00000824F76AC800 50] LinuxArm64Server, [00000824F734CB00][00000824F76B5000 50] Android, [00000824F734AD40][00000824F76C0000 50] Android_Preview_OpenGL, [00000824F734B600][00000824F76C5000 50] Android_Preview_Vulkan, [00000824F734BD00][00000824F76C7800 50] Android_Low, [00000824F734B440][00000824F76CA000 50] Android_Mid, [00000824F734A640][00000824F76CC800 50] Android_High, [00000824F734A2C0][00000824F76A2800 50] Android_Default, [00000824F7345240][00000824F76D0000 50] Android_Adreno4xx, [00000824F7347380][00000824F76D5000 50] Android_Adreno5xx_Low, [00000824F734C940][00000824F76D7800 50] Android_Adreno5xx, [00000824F73439C0][00000824F76DA000 50] Android_Adreno6xx, [00000824F7348340][00000824F76DC800 50] Android_Adreno6xx_Vulkan, [00000824F73471C0][00000824F76C2800 50] Android_Adreno7xx, [00000824F734BB40][00000824F76E0000 50] Android_Adreno7xx_Vulkan, [00000824F7344EC0][00000824F76E5000 50] Android_Mali_T6xx, [00000824F734CCC0][00000824F76E7800 50] Android_Mali_T7xx, [00000824F734D040][00000824F76EA000 50] Android_Mali_T8xx, [00000824F734CE80][00000824F76EC800 50] Android_Mali_G71, [00000824F73432C0][00000824F76D2800 50] Android_Mali_G72, [00000824F7344440][00000824F76F0000 50] Android_Mali_G72_Vulkan, [00000824F7349A00][00000824F76F5000 50] Android_Mali_G76, [00000824F7348C00][00000824F76F7800 50] Android_Mali_G76_Vulkan, [00000824F734D3C0][00000824F76FA000 50] Android_Mali_G77, [00000824F7341880][00000824F76FC800 50] Android_Mali_G77_Vulkan, [00000824F734DC80][00000824F76E2800 50] Android_Mali_G78, [00000824F734E000][00000824F7700000 50] Android_Mali_G78_Vulkan, [00000824F734DE40][00000824F7705000 50] Android_Mali_G710, [00000824F734AF00][00000824F7707800 50] Android_Mali_G710_Vulkan, [00000824F734AB80][00000824F770A000 50] Android_Xclipse_920, [00000824F734C240][00000824F770C800 50] Android_Xclipse_920_Vulkan, [00000824F734C780][00000824F76F2800 50] Android_Vulkan_SM5, [00000824F734E1C0][00000824F7710000 50] Android_PowerVR_G6xxx, [00000824F734EC40][00000824F7715000 50] Android_PowerVR_GT7xxx, [00000824F734EFC0][00000824F7717800 50] Android_PowerVR_GE8xxx, [00000824F734EE00][00000824F771A000 50] Android_PowerVR_GM9xxx, [00000824F734DAC0][00000824F771C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000824F7346AC0][00000824F7702800 50] Android_TegraK1, [00000824F7347FC0][00000824F7720000 50] Android_Unknown_Vulkan, [00000824F734D740][00000824F7725000 50] Oculus_Quest, [00000824F734F340][00000824F7727800 50] Oculus_Quest2, [00000824F734E700][00000824F772A000 50] HoloLens, 
+[2023.01.03-16.08.32:866][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.03-16.08.32:876][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.03-16.08.32:944][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.03-16.08.33:381][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.03-16.08.33:382][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.03-16.08.33:382][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.03-16.08.33:382][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.03-16.08.33:382][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.03-16.08.33:426][  0]LogNetVersion: StealthWitch 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2153738586)
+[2023.01.03-16.08.33:749][  0]LogSlate: Border
+[2023.01.03-16.08.33:749][  0]LogSlate: BreadcrumbButton
+[2023.01.03-16.08.33:749][  0]LogSlate: Default
+[2023.01.03-16.08.33:749][  0]LogSlate: Icons.Save
+[2023.01.03-16.08.33:749][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.03-16.08.33:749][  0]LogSlate: ListView
+[2023.01.03-16.08.33:749][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.03-16.08.33:749][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.03-16.08.33:749][  0]LogSlate: TableView.DarkRow
+[2023.01.03-16.08.33:749][  0]LogSlate: TableView.Row
+[2023.01.03-16.08.33:749][  0]LogSlate: TreeView
+[2023.01.03-16.08.34:247][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.34:315][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.34:315][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.34:571][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.03-16.08.34:571][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.03-16.08.34:571][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.03-16.08.35:624][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.03-16.08.35:638][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.03-16.08.35:673][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4720D3B64EBDAB80C7FFC584DCE9DBB0 | Instance: F4D260F7425B137C39878EA1C34C2531 (PAIGES-OTHER-LA-44920).
+[2023.01.03-16.08.35:907][  0]LogPython: Using Python 3.9.7
+[2023.01.03-16.08.38:668][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.38:689][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.38:698][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.38:717][  0]LogUProjectInfo: Found projects:
+[2023.01.03-16.08.38:979][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.03-16.08.39:010][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.03-16.08.39:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.03-16.08.39:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.03-16.08.39:307][  0]LogCollectionManager: Loaded 0 collections in 0.005318 seconds
+[2023.01.03-16.08.39:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Collections/' took 0.00s
+[2023.01.03-16.08.39:521][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Developers/paige/Collections/' took 0.00s
+[2023.01.03-16.08.39:521][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Collections/' took 0.00s
+[2023.01.03-16.08.40:289][  0]LogEngine: Initializing Engine...
+[2023.01.03-16.08.40:328][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.03-16.08.40:333][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.01.03-16.08.40:908][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.03-16.08.40:917][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-16.08.40:960][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-16.08.41:069][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.03-16.08.41:097][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.03-16.08.41:152][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.03-16.08.41:154][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.03-16.08.41:154][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.03-16.08.41:159][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.03-16.08.41:159][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-16.08.41:161][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-16.08.41:161][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-16.08.41:165][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-16.08.41:165][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-16.08.41:165][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-16.08.41:190][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-16.08.42:229][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.03-16.08.42:234][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-16.08.42:240][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-16.08.42:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-16.08.42:246][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.03-16.08.42:246][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.03-16.08.42:249][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.03-16.08.42:249][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.03-16.08.42:249][  0]LogInit: FAudioDevice initialized.
+[2023.01.03-16.08.42:250][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.03-16.08.42:252][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.03-16.08.42:253][  0]LogInit: Texture streaming: Enabled
+[2023.01.03-16.08.42:330][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.03-16.08.42:354][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.03-16.08.42:404][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.03-16.08.42:422][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.03-16.08.42:422][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.03-16.08.45:624][  0]LogLiveCoding: Display: First instance in process group "UE_StealthWitch_0xabcb9c76", spawning console
+[2023.01.03-16.08.45:624][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.03-16.08.45:624][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.03-16.08.45:688][  0]LogInit: Transaction tracking system initialized
+[2023.01.03-16.08.45:891][  0]BlueprintLog: New page: Editor Load
+[2023.01.03-16.08.46:431][  0]LocalizationService: Localization service is disabled
+[2023.01.03-16.08.46:563][  0]TimingProfiler: Initialize
+[2023.01.03-16.08.46:564][  0]TimingProfiler: OnSessionChanged
+[2023.01.03-16.08.46:564][  0]LoadingProfiler: Initialize
+[2023.01.03-16.08.46:564][  0]LoadingProfiler: OnSessionChanged
+[2023.01.03-16.08.46:566][  0]NetworkingProfiler: Initialize
+[2023.01.03-16.08.46:568][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.03-16.08.46:568][  0]MemoryProfiler: Initialize
+[2023.01.03-16.08.46:568][  0]MemoryProfiler: OnSessionChanged
+[2023.01.03-16.08.47:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paige/Documents/Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/' took 0.01s
+[2023.01.03-16.08.47:845][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.03-16.08.48:323][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.03-16.08.48:334][  0]SourceControl: Source control is disabled
+[2023.01.03-16.08.48:335][  0]LogUnrealEdMisc: Loading editor; pre map load, took 29.601
+[2023.01.03-16.08.48:337][  0]Cmd: MAP LOAD FILE="../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.03-16.08.48:339][  0]LightingResults: New page: Lighting Build
+[2023.01.03-16.08.48:361][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-16.08.48:368][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-16.08.48:374][  0]MapCheck: New page: Map Check
+[2023.01.03-16.08.48:374][  0]LightingResults: New page: Lighting Build
+[2023.01.03-16.08.48:407][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-16.08.48:436][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.03-16.08.49:211][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Forest'.
+[2023.01.03-16.08.49:212][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-16.08.49:212][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-16.08.49:212][  0]LogAIModule: Creating AISystem for world L_Forest
+[2023.01.03-16.08.49:261][  0]VisLogBP: LogText: ''
+[2023.01.03-16.08.49:278][  0]VisLogBP: LogText: ''
+[2023.01.03-16.08.49:279][  0]VisLogBP: LogText: ''
+[2023.01.03-16.08.49:340][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.03-16.08.49:372][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.01.03-16.08.49:374][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.03-16.08.49:375][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.892ms to complete.
+[2023.01.03-16.08.49:376][  0]LogFileHelpers: Loading map 'L_Forest' took 1.039
+[2023.01.03-16.08.49:444][  0]LogUnrealEdMisc: Total Editor Startup Time, took 30.709
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.03-16.08.49:444][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.03-16.08.49:445][  0]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:618][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.03-16.08.49:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-16.08.49:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-16.08.49:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-16.08.49:692][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-16.08.49:790][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:790][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:796][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:796][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:798][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:798][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:801][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:801][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:804][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:804][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:806][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:806][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:809][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:809][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:811][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:811][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:813][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:813][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:816][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.03-16.08.49:816][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.03-16.08.49:817][  0]LogFeaturePack: Error: Error in Feature pack C:/Users/paige/Documents/UnrealEngine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.03-16.08.50:654][  0]LogSlate: Took 0.001345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.03-16.08.50:668][  0]LogSlate: Took 0.000891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.03-16.08.50:672][  0]LogSlate: Took 0.000908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.03-16.08.50:676][  0]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.03-16.08.50:679][  0]LogSlate: Took 0.000607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.03-16.08.50:721][  0]LogViewport: Scene viewport resized to 1527x467, mode Windowed.
+[2023.01.03-16.08.51:330][  0]LogStall: Startup...
+[2023.01.03-16.08.51:334][  0]LogStall: Startup complete.
+[2023.01.03-16.08.51:436][  0]LogLoad: (Engine Initialization) Total time: 32.70 seconds
+[2023.01.03-16.08.51:436][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.03-16.08.51:586][  0]LogAssetRegistry: Asset discovery search completed in 19.8691 seconds
+[2023.01.03-16.08.51:609][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000208 seconds (updated 0 objects)
+[2023.01.03-16.08.51:653][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.03-16.08.52:322][  2]LogSlate: Took 0.000927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.03-16.08.54:006][  7]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.BP_TreewithCONSTRAINTS_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.03-16.08.54:007][  7]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.BP_TreewithCONSTRAINTS_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.03-16.08.54:007][  7]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.BP_TreewithCONSTRAINTS_C_0.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.03-16.08.54:007][  7]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.BP_TreewithCONSTRAINTS_C_0.PhysicsConstraint3' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.03-16.08.54:007][  7]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.BP_TreewithCONSTRAINTS_C_0.PhysicsConstraint4' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.03-16.08.54:007][  7]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.BP_TreewithCONSTRAINTS_C_0.PhysicsConstraint5' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.03-16.08.56:123][ 18]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.26:506][782]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.26:748][796]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.28:771][892]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.28:983][904]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.29:210][916]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.35:883][279]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.35:983][285]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.36:151][295]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.36:236][300]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.36:731][329]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.36:815][334]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.37:265][361]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.37:467][373]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.37:632][383]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.38:006][404]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.46:316][866]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.46:424][872]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.46:590][882]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.46:857][898]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.46:975][904]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:113][972]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:179][976]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:262][981]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:328][985]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:396][989]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:512][996]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:613][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:646][  4]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.48:678][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.49:162][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.49:195][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.49:314][ 43]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.50:365][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.50:630][ 99]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.54:152][301]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.54:537][323]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.55:553][384]Cmd: EDIT COPY
+[2023.01.03-16.09.55:779][397]Cmd: EDIT PASTE
+[2023.01.03-16.09.55:856][398]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.57:252][455]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.57:284][457]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.57:501][469]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.59:811][605]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.09.59:946][613]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:030][618]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:097][622]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:146][625]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:262][632]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:430][642]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:529][648]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.00:793][663]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.02:684][776]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.03:100][801]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.03:201][807]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.03:384][818]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.03:417][820]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.03:584][829]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.04:816][888]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.05:232][902]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.05:633][926]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.05:699][930]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.05:931][943]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.06:699][989]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.06:765][993]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.06:900][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.07:410][ 31]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.07:600][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.07:635][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.07:717][ 49]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.07:834][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.07:969][ 63]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.08:786][112]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.08:953][122]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.08:986][124]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.10:102][191]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.10:195][196]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.10:857][235]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.11:107][250]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.11:207][256]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.11:392][266]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.18:776][672]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.19:577][720]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.19:661][725]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.19:727][729]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.19:892][739]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.19:959][743]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.20:059][748]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.20:993][804]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.21:025][806]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.21:260][820]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.21:392][828]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.21:744][848]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.30:900][392]LogDerivedDataCache: C:/Users/paige/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.424 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.03-16.10.34:945][629]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.36:091][697]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.39:660][883]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.39:836][885]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.40:661][928]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.40:794][936]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.41:128][955]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.46:287][241]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.47:222][287]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.48:176][340]Cmd: EDIT COPY
+[2023.01.03-16.10.48:357][350]Cmd: EDIT PASTE
+[2023.01.03-16.10.48:434][351]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.50:114][427]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.50:246][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.50:413][445]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.50:613][456]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.52:773][585]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.53:015][596]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.53:354][602]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.53:730][618]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.53:814][623]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.53:896][628]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.54:313][652]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.57:170][793]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.57:486][812]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.57:919][837]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.59:693][940]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.10.59:793][942]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.00:203][949]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.04:482][186]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.04:549][189]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.05:261][230]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.05:796][240]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.05:945][249]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.06:281][269]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.06:412][277]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.06:829][302]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.06:879][305]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.07:180][323]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.07:245][327]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.07:362][334]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.07:429][338]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.07:514][342]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.26:535][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush3.SM_ComplexBush3
+[2023.01.03-16.11.26:535][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush3.SM_ComplexBush3
+[2023.01.03-16.11.26:536][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush3.SM_ComplexBush3 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_100
+[2023.01.03-16.11.29:368][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush3.SM_ComplexBush3
+[2023.01.03-16.11.29:368][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush3.SM_ComplexBush3
+[2023.01.03-16.11.29:369][593]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush3.SM_ComplexBush3 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_104
+[2023.01.03-16.11.29:457][594]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.35:408][904]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.35:597][909]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.11.36:200][944]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.16:153][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush2.SM_ComplexBush2
+[2023.01.03-16.12.16:153][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush2.SM_ComplexBush2
+[2023.01.03-16.12.16:153][312]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush2.SM_ComplexBush2 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_119
+[2023.01.03-16.12.17:401][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush2.SM_ComplexBush2
+[2023.01.03-16.12.17:401][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush2.SM_ComplexBush2
+[2023.01.03-16.12.17:403][383]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Nature_Kit/SM_ComplexBush2.SM_ComplexBush2 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_125
+[2023.01.03-16.12.17:469][384]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.20:329][526]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.20:503][532]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.28:139][979]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.33:782][311]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.39:183][622]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.39:350][632]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.39:449][638]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.39:687][651]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.41:650][762]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.41:748][764]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.42:234][776]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.42:601][798]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.42:685][803]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.42:801][810]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.43:001][822]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.12.43:353][842]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.13.43:885][371]LogEditorViewport: Clicking Background
+[2023.01.03-16.14.32:400][162]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.14.37:964][470]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.14.53:015][321]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.14.57:116][529]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.15.14:383][505]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.15.16:433][598]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.15.17:645][663]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.15.44:401][237]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.15.50:335][550]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.12:948][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.12:948][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.12:948][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_129
+[2023.01.03-16.17.14:654][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.14:654][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.14:655][ 20]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_134
+[2023.01.03-16.17.14:729][ 21]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.17:839][184]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.18:314][209]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.18:580][225]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.19:247][265]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.19:720][293]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.19:874][302]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.19:994][309]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.20:074][312]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.20:909][362]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.21:125][375]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.21:426][393]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.21:659][407]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.21:778][413]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.26:518][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.26:518][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.26:518][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_136
+[2023.01.03-16.17.27:424][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.27:424][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.27:425][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_138
+[2023.01.03-16.17.27:497][739]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.35:307][165]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.35:366][168]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.35:432][172]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.35:748][191]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.36:448][233]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.36:882][259]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.37:150][274]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.17.54:002][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.54:002][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.54:002][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_140
+[2023.01.03-16.17.55:688][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.55:688][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.17.55:689][112]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_142
+[2023.01.03-16.17.55:760][113]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.11:636][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.11:636][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.11:636][ 43]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_144
+[2023.01.03-16.18.12:980][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.12:980][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.12:981][122]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_149
+[2023.01.03-16.18.13:048][123]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.22:126][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.22:126][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.22:127][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_151
+[2023.01.03-16.18.23:337][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.23:337][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.23:338][719]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_153
+[2023.01.03-16.18.23:407][720]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.28:010][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.28:011][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.28:011][983]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_154
+[2023.01.03-16.18.29:098][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.29:098][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.29:099][ 46]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_155
+[2023.01.03-16.18.29:167][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.31:075][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.31:076][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.31:076][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_156
+[2023.01.03-16.18.32:567][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.32:567][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.32:568][238]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_157
+[2023.01.03-16.18.32:639][239]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.38:799][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.38:799][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.38:800][594]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_158
+[2023.01.03-16.18.40:234][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.40:234][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03
+[2023.01.03-16.18.40:234][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_159
+[2023.01.03-16.18.40:301][680]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.41:741][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.41:741][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.41:742][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_160
+[2023.01.03-16.18.43:411][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.43:412][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.43:413][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_161
+[2023.01.03-16.18.43:489][846]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.49:266][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.49:266][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.49:266][173]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_162
+[2023.01.03-16.18.51:139][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.51:139][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.51:140][283]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_163
+[2023.01.03-16.18.51:207][284]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.18.58:050][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.58:050][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.58:050][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_164
+[2023.01.03-16.18.59:477][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.59:477][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.18.59:478][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_165
+[2023.01.03-16.18.59:544][764]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.19.05:767][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.19.05:768][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.19.05:768][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_166
+[2023.01.03-16.19.08:685][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.19.08:685][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01
+[2023.01.03-16.19.08:686][297]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Bush_01.SM_Bush_01 as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_167
+[2023.01.03-16.19.08:752][298]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.19.13:345][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.13:345][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.13:346][556]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_168
+[2023.01.03-16.19.20:867][  4]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.20:867][  4]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.20:868][  4]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_169
+[2023.01.03-16.19.20:938][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.19.25:911][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.25:911][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.25:911][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_170
+[2023.01.03-16.19.29:415][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.29:415][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.29:416][487]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_171
+[2023.01.03-16.19.29:479][488]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.19.33:115][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.33:115][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.33:116][690]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_172
+[2023.01.03-16.19.34:820][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.34:820][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.34:821][791]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_173
+[2023.01.03-16.19.34:887][792]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.19.40:261][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.40:261][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.40:262][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_174
+[2023.01.03-16.19.41:856][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.41:856][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground
+[2023.01.03-16.19.41:857][188]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedForestPack/SM_Rock_Ground.SM_Rock_Ground as actor: StaticMeshActor /Game/Maps/L_Forest.L_Forest:PersistentLevel.StaticMeshActor_175
+[2023.01.03-16.19.41:926][189]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/L_Forest.
+[2023.01.03-16.21.40:885][828]LogEditorViewport: Clicking Background
+[2023.01.03-16.21.41:379][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.01.03-16.21.41:397][837]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009321 seconds
+[2023.01.03-16.21.41:514][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Forest_Auto1
+[2023.01.03-16.21.41:516][837]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_Forest_Auto16692A54446C236C6FE01F7A5513230B9.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/L_Forest_Auto1.umap'
+[2023.01.03-16.21.41:524][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Forest' took 0.159
+[2023.01.03-16.21.41:524][837]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2023.01.03-16.21.43:251][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.03-16.21.44:330][935]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-16.21.44:468][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.03-16.21.44:570][935]LogSavePackage: Moving output files for package: /Game/Maps/L_Forest
+[2023.01.03-16.21.44:572][935]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_ForestFF07BE4D43FF10CC457BFC920C4634A2.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Forest.umap'
+[2023.01.03-16.21.44:590][935]LogFileHelpers: No new changes to save!
+[2023.01.03-16.21.44:590][935]LogFileHelpers: Saving map 'L_Forest' took 0.137
+[2023.01.03-16.21.44:606][935]AssetCheck: New page: Asset Save: L_Forest
+[2023.01.03-16.21.44:606][935]LogContentValidation: Display: Validating World /Game/Maps/L_Forest.L_Forest
+[2023.01.03-16.21.45:466][987]LogViewport: Scene viewport resized to 1527x486, mode Windowed.
+[2023.01.03-16.21.45:512][989]LogViewport: Scene viewport resized to 1527x529, mode Windowed.
+[2023.01.03-16.21.45:564][991]LogViewport: Scene viewport resized to 1527x566, mode Windowed.
+[2023.01.03-16.21.45:618][993]LogViewport: Scene viewport resized to 1527x592, mode Windowed.
+[2023.01.03-16.21.45:668][995]LogViewport: Scene viewport resized to 1527x604, mode Windowed.
+[2023.01.03-16.21.45:720][997]LogViewport: Scene viewport resized to 1527x615, mode Windowed.
+[2023.01.03-16.21.45:769][999]LogViewport: Scene viewport resized to 1527x629, mode Windowed.
+[2023.01.03-16.21.45:821][  1]LogViewport: Scene viewport resized to 1527x651, mode Windowed.
+[2023.01.03-16.21.45:869][  3]LogViewport: Scene viewport resized to 1527x661, mode Windowed.
+[2023.01.03-16.21.45:915][  5]LogViewport: Scene viewport resized to 1527x665, mode Windowed.
+[2023.01.03-16.21.45:965][  7]LogViewport: Scene viewport resized to 1527x670, mode Windowed.
+[2023.01.03-16.21.46:013][  9]LogViewport: Scene viewport resized to 1527x682, mode Windowed.
+[2023.01.03-16.21.46:306][ 25]LogViewport: Scene viewport resized to 1527x686, mode Windowed.
+[2023.01.03-16.21.46:340][ 26]LogViewport: Scene viewport resized to 1527x682, mode Windowed.
+[2023.01.03-16.22.44:656][283]LogEditorViewport: Clicking Background
+[2023.01.03-16.22.47:020][417]LogViewport: Scene viewport resized to 1527x672, mode Windowed.
+[2023.01.03-16.22.47:068][419]LogViewport: Scene viewport resized to 1527x627, mode Windowed.
+[2023.01.03-16.22.47:116][421]LogViewport: Scene viewport resized to 1527x546, mode Windowed.
+[2023.01.03-16.22.47:149][422]LogViewport: Scene viewport resized to 1527x483, mode Windowed.
+[2023.01.03-16.22.47:218][424]LogViewport: Scene viewport resized to 1527x376, mode Windowed.
+[2023.01.03-16.22.47:264][426]LogViewport: Scene viewport resized to 1527x331, mode Windowed.
+[2023.01.03-16.22.47:308][428]LogViewport: Scene viewport resized to 1527x325, mode Windowed.
+[2023.01.03-16.22.47:620][446]LogViewport: Scene viewport resized to 1527x336, mode Windowed.
+[2023.01.03-16.22.47:679][448]LogViewport: Scene viewport resized to 1527x368, mode Windowed.
+[2023.01.03-16.22.47:732][450]LogViewport: Scene viewport resized to 1527x393, mode Windowed.
+[2023.01.03-16.22.47:777][452]LogViewport: Scene viewport resized to 1527x413, mode Windowed.
+[2023.01.03-16.22.47:823][454]LogViewport: Scene viewport resized to 1527x430, mode Windowed.
+[2023.01.03-16.22.59:058][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.03-16.22.59:188][107]VisLogBP: LogText: ''
+[2023.01.03-16.22.59:192][107]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L_Teststage.L_Teststage
+[2023.01.03-16.22.59:193][107]Cmd: MAP LOAD FILE="../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Teststage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.03-16.22.59:193][107]LightingResults: New page: Lighting Build
+[2023.01.03-16.22.59:193][107]LoadErrors: New page: Loading map: L_Teststage.umap
+[2023.01.03-16.22.59:204][107]LogWorld: UWorld::CleanupWorld for L_Forest, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-16.22.59:204][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-16.22.59:205][107]MapCheck: New page: Map Check
+[2023.01.03-16.22.59:205][107]LightingResults: New page: Lighting Build
+[2023.01.03-16.22.59:217][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-16.22.59:229][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.03-16.22.59:231][107]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.22.59:237][107]LogWorld: UWorld::CleanupWorld for L_Teststage, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-16.22.59:237][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-16.22.59:250][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.03-16.22.59:262][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.03-16.22.59:268][107]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Teststage'.
+[2023.01.03-16.22.59:268][107]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-16.22.59:268][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-16.22.59:269][107]LogAIModule: Creating AISystem for world L_Teststage
+[2023.01.03-16.22.59:272][107]VisLogBP: LogText: ''
+[2023.01.03-16.22.59:276][107]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.03-16.22.59:292][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.03-16.22.59:305][107]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.03-16.22.59:305][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2023.01.03-16.22.59:305][107]LogFileHelpers: Loading map 'L_Teststage' took 0.113
+[2023.01.03-16.23.37:945][276]LogViewport: Scene viewport resized to 998x430, mode Windowed.
+[2023.01.03-16.23.55:946][279]Cmd: MODE GRID=0
+[2023.01.03-16.24.22:272][804]LogStaticMesh: Display: Building static mesh Cylinder_F8F52282...
+[2023.01.03-16.24.22:272][804]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/_GENERATED/paige/Cylinder_F8F52282.Cylinder_F8F52282
+[2023.01.03-16.24.23:815][880]Cmd: TRANSACTION UNDO
+[2023.01.03-16.24.23:816][880]LogEditorTransaction: Undo Add Shape Mesh
+[2023.01.03-16.24.42:635][918]LogStaticMesh: Display: Building static mesh Cylinder_8D30C8CC...
+[2023.01.03-16.24.42:635][918]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/_GENERATED/paige/Cylinder_8D30C8CC.Cylinder_8D30C8CC
+[2023.01.03-16.24.54:190][581]Cmd: DELETE
+[2023.01.03-16.24.54:190][581]Cmd: ACTOR DELETE
+[2023.01.03-16.24.54:197][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.03-16.24.54:211][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.01.03-16.24.54:213][581]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.01.03-16.25.01:247][961]LogStaticMesh: Display: Building static mesh Cylinder_0F595AEA...
+[2023.01.03-16.25.01:247][961]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA.Cylinder_0F595AEA
+[2023.01.03-16.25.25:891][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.01.03-16.25.27:689][370]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-16.25.27:863][370]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA
+[2023.01.03-16.25.27:864][370]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Cylinder_0F595AEA504719564AA5B91A6CFE72A47E5DB16D.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Cylinder_0F595AEA.uasset'
+[2023.01.03-16.25.27:886][370]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Cylinder_8D30C8CC
+[2023.01.03-16.25.27:886][370]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Cylinder_8D30C8CC44415DD14951C35BE4C77B922F37FB61.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Cylinder_8D30C8CC.uasset'
+[2023.01.03-16.25.27:899][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.03-16.25.27:916][370]LogSavePackage: Moving output files for package: /Game/Maps/L_Teststage
+[2023.01.03-16.25.27:917][370]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_TeststageC9A1E7E5473627D6701FA18FB148213C.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Teststage.umap'
+[2023.01.03-16.25.27:933][370]LogFileHelpers: Saving map 'L_Teststage' took 0.046
+[2023.01.03-16.25.27:946][370]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-16.25.27:946][370]LogContentValidation: Display: Validating World /Game/Maps/L_Teststage.L_Teststage
+[2023.01.03-16.25.27:947][370]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Cylinder_8D30C8CC.Cylinder_8D30C8CC
+[2023.01.03-16.25.27:947][370]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA.Cylinder_0F595AEA
+[2023.01.03-16.25.50:581][496]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/SM_LogCollision
+[2023.01.03-16.25.50:581][496]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_LogCollision9E4015A14D6719F592D017992D6C1E46.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/SM_LogCollision.uasset'
+[2023.01.03-16.25.50:585][496]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/SM_LogCollision
+[2023.01.03-16.25.50:587][496]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_LogCollision556564684F52842FE59D59881BA5F808.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/SM_LogCollision.uasset'
+[2023.01.03-16.25.50:614][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/SM_Log" FILE="../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/SM_Log.uasset" SILENT=true
+[2023.01.03-16.25.50:620][496]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/SM_Log
+[2023.01.03-16.25.50:620][496]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_LogFC6CED5F4E5377A516AC398CCE0577F0.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/SM_Log.uasset'
+[2023.01.03-16.25.50:623][496]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/SM_Log
+[2023.01.03-16.25.50:625][496]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_LogBE1F045344961424C640E8873A2068DA.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/SM_Log.uasset'
+[2023.01.03-16.25.50:672][496]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-16.25.50:672][496]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/SM_Log.SM_Log
+[2023.01.03-16.25.50:672][496]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/SM_LogCollision.SM_LogCollision
+[2023.01.03-16.25.50:672][496]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/_GENERATED/paige/SM_Log.SM_Log
+[2023.01.03-16.25.50:672][496]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/_GENERATED/paige/SM_LogCollision.SM_LogCollision
+[2023.01.03-16.25.56:939][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BridgeLog" FILE="../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Blueprints/BP_BridgeLog.uasset" SILENT=true
+[2023.01.03-16.25.56:945][845]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BridgeLog
+[2023.01.03-16.25.56:946][845]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/BP_BridgeLog1BB48E844698F735362D20B054E9C361.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Blueprints/BP_BridgeLog.uasset'
+[2023.01.03-16.25.56:973][845]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/SM_BridgeLog
+[2023.01.03-16.25.56:974][845]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_BridgeLog51A4966F40D9B36BDBC400AAE1D5CA84.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/SM_BridgeLog.uasset'
+[2023.01.03-16.25.57:009][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.03-16.25.57:021][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.03-16.25.57:032][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.03-16.25.57:066][845]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-16.25.57:066][845]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/SM_BridgeLog.SM_BridgeLog
+[2023.01.03-16.25.57:066][845]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BridgeLog.BP_BridgeLog
+[2023.01.03-16.26.13:091][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.01.03-16.26.14:385][571]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.14:408][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.01.03-16.26.14:422][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.01.03-16.26.14:433][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.03-16.26.16:887][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.03-16.26.18:567][698]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.19:648][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.03-16.26.21:165][754]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.21:185][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.03-16.26.21:198][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.03-16.26.21:210][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.03-16.26.26:558][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.03-16.26.27:645][ 59]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.03-16.26.27:651][ 59]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.26.27:666][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.03-16.26.27:678][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.03-16.26.27:689][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.03-16.26.30:070][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.03-16.26.31:472][184]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.31:493][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.03-16.26.31:506][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.03-16.26.31:518][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.03-16.26.37:586][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.03-16.26.39:053][449]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.41:015][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.03-16.26.42:206][530]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.48:683][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.03-16.26.50:027][842]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.50:680][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.03-16.26.52:016][868]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.26.56:674][121]LogStaticMesh: Display: Building static mesh SM_UpperTorsp...
+[2023.01.03-16.26.56:674][121]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/_GENERATED/100511480/SM_UpperTorsp.SM_UpperTorsp
+[2023.01.03-16.26.56:674][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.03-16.26.58:355][121]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.27.16:387][ 98]Cmd: MODE GRID=1
+[2023.01.03-16.27.21:909][414]LogStaticMesh: Display: Building static mesh Cylinder_0F595AEA...
+[2023.01.03-16.27.21:909][414]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA.Cylinder_0F595AEA
+[2023.01.03-16.28.19:791][758]LogStaticMesh: Display: Building static mesh Box_39FEFA8C...
+[2023.01.03-16.28.19:791][758]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_39FEFA8C.Box_39FEFA8C
+[2023.01.03-16.29.14:196][860]Cmd: TRANSACTION UNDO
+[2023.01.03-16.29.14:196][860]LogEditorTransaction: Undo Transform
+[2023.01.03-16.30.03:562][687]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.03:562][687]LogEditorTransaction: Undo Transform
+[2023.01.03-16.30.03:965][692]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.03:965][692]LogEditorTransaction: Undo Selection
+[2023.01.03-16.30.04:616][717]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.04:616][717]LogEditorTransaction: Undo Transform
+[2023.01.03-16.30.05:003][734]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.05:003][734]LogEditorTransaction: Undo Selection
+[2023.01.03-16.30.05:310][748]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.05:310][748]LogEditorTransaction: Undo Transform
+[2023.01.03-16.30.05:674][764]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.05:674][764]LogEditorTransaction: Undo Selection
+[2023.01.03-16.30.06:094][783]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.06:094][783]LogEditorTransaction: Undo Transform
+[2023.01.03-16.30.10:022][973]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.10:023][973]LogEditorTransaction: Undo Selection
+[2023.01.03-16.30.10:548][981]Cmd: TRANSACTION UNDO
+[2023.01.03-16.30.10:548][981]LogEditorTransaction: Undo Transform
+[2023.01.03-16.32.43:494][723]LogStaticMesh: Display: Building static mesh Box_39FEFA8C...
+[2023.01.03-16.32.43:494][723]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_39FEFA8C.Box_39FEFA8C
+[2023.01.03-16.33.52:437][587]LogStaticMesh: Display: Building static mesh SM_WitchHead_91C91148...
+[2023.01.03-16.33.52:437][587]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_WitchHead_91C91148.SM_WitchHead_91C91148
+[2023.01.03-16.34.03:281][129]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/_GENERATED/paige/SM_WitchHead_91C91148.SM_WitchHead_91C91148
+[2023.01.03-16.34.03:391][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-16.34.03:443][129]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.01.03-16.34.04:036][129]LogViewport: Scene viewport resized to 1179x693, mode Windowed.
+[2023.01.03-16.34.05:721][175]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.03-16.34.10:790][413]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/SM_WitchHead_91C91148
+[2023.01.03-16.34.10:790][413]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_WitchHead_91C91148C4D896AC42F4C4E81EAB0FB0927B8417.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/SM_WitchHead_91C91148.uasset'
+[2023.01.03-16.34.10:813][413]AssetCheck: New page: Asset Save: SM_WitchHead_91C91148
+[2023.01.03-16.34.10:813][413]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/SM_WitchHead_91C91148.SM_WitchHead_91C91148
+[2023.01.03-16.34.53:760][179]LogStaticMesh: Display: Building static mesh Box_CBF2C42F...
+[2023.01.03-16.34.53:760][179]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.35.38:153][976]Cmd: EDIT COPY
+[2023.01.03-16.35.38:432][988]Cmd: EDIT PASTE
+[2023.01.03-16.36.10:120][307]Cmd: EDIT COPY
+[2023.01.03-16.36.10:377][318]Cmd: EDIT PASTE
+[2023.01.03-16.36.16:222][561]Cmd: EDIT COPY
+[2023.01.03-16.36.16:491][573]Cmd: EDIT PASTE
+[2023.01.03-16.36.51:525][ 30]LogStaticMesh: Display: Building static mesh Box_CBF2C42F...
+[2023.01.03-16.36.51:525][ 30]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.36.52:030][ 49]LogEditorViewport: Clicking Background
+[2023.01.03-16.37.05:508][586]Cmd: DELETE
+[2023.01.03-16.37.05:508][586]Cmd: ACTOR DELETE
+[2023.01.03-16.37.05:511][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.03-16.37.05:539][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.03-16.37.05:542][586]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.01.03-16.37.06:427][622]Cmd: DELETE
+[2023.01.03-16.37.06:427][622]Cmd: ACTOR DELETE
+[2023.01.03-16.37.06:429][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.03-16.37.06:443][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.03-16.37.06:445][622]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.01.03-16.37.12:007][868]Cmd: DELETE
+[2023.01.03-16.37.12:007][868]Cmd: ACTOR DELETE
+[2023.01.03-16.37.12:009][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.03-16.37.12:022][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.03-16.37.12:024][868]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.01.03-16.37.14:922][985]LogStaticMesh: Display: Building static mesh Box_DE18878C...
+[2023.01.03-16.37.14:922][985]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_DE18878C.Box_DE18878C
+[2023.01.03-16.38.58:896][268]Cmd: TRANSACTION UNDO
+[2023.01.03-16.38.58:896][268]LogEditorTransaction: Undo Transform
+[2023.01.03-16.39.00:267][310]LogStaticMesh: Display: Building static mesh Box_DE18878C...
+[2023.01.03-16.39.00:268][310]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_DE18878C.Box_DE18878C
+[2023.01.03-16.39.28:372][754]LogStaticMesh: Display: Building static mesh SM_HairBack_75003B48...
+[2023.01.03-16.39.28:372][754]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.39.41:865][470]LogStaticMesh: Display: Building static mesh SM_HairBack_75003B48...
+[2023.01.03-16.39.41:865][470]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.39.50:500][935]LogStaticMesh: Display: Building static mesh Box_4D6BF120...
+[2023.01.03-16.39.50:500][935]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_4D6BF120.Box_4D6BF120
+[2023.01.03-16.39.50:884][949]LogStaticMesh: Display: Building static mesh Box_A5A3C230...
+[2023.01.03-16.39.50:884][949]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_A5A3C230.Box_A5A3C230
+[2023.01.03-16.40.43:744][782]LogStaticMesh: Display: Building static mesh Box_A5A3C230...
+[2023.01.03-16.40.43:744][782]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_A5A3C230.Box_A5A3C230
+[2023.01.03-16.42.48:460][698]LogStaticMesh: Display: Building static mesh Box_A5A3C230...
+[2023.01.03-16.42.48:460][698]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_A5A3C230.Box_A5A3C230
+[2023.01.03-16.43.06:215][407]LogStaticMesh: Display: Building static mesh SM_HairBack_75003B48...
+[2023.01.03-16.43.06:215][407]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.44.18:267][412]LogStaticMesh: Display: Building static mesh SM_HairBack_75003B48...
+[2023.01.03-16.44.18:267][412]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.44.33:961][ 53]Cmd: MODE GRID=0
+[2023.01.03-16.45.16:893][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.03-16.45.16:913][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Teststage_Auto2
+[2023.01.03-16.45.16:914][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_Teststage_Auto294D2E10649FFCC99880071BEAE1BB5A4.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/L_Teststage_Auto2.umap'
+[2023.01.03-16.45.16:918][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Teststage' took 0.042
+[2023.01.03-16.45.16:918][793]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2023.01.03-16.45.16:919][793]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Log] ([2] browsable assets)...
+[2023.01.03-16.45.16:940][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Log.BP_Log]
+[2023.01.03-16.45.16:940][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Log]
+[2023.01.03-16.45.16:949][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Log_Auto2
+[2023.01.03-16.45.16:950][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/BP_Log_Auto2504F03C54A609D5F488F19868DD40B60.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Blueprints/BP_Log_Auto2.uasset'
+[2023.01.03-16.45.16:952][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/Cylinder_0F595AEA] ([1] browsable assets)...
+[2023.01.03-16.45.16:965][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA.Cylinder_0F595AEA]
+[2023.01.03-16.45.16:965][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/Cylinder_0F595AEA]
+[2023.01.03-16.45.16:969][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/Cylinder_0F595AEA_Auto2
+[2023.01.03-16.45.16:970][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Cylinder_0F595AEA_Auto22F59799D4EC9033FCBF5C991A1D1D9D2.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/Cylinder_0F595AEA_Auto2.uasset'
+[2023.01.03-16.45.16:972][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/Box_39FEFA8C] ([1] browsable assets)...
+[2023.01.03-16.45.16:985][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/Box_39FEFA8C.Box_39FEFA8C]
+[2023.01.03-16.45.16:985][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/Box_39FEFA8C]
+[2023.01.03-16.45.16:989][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/Box_39FEFA8C_Auto2
+[2023.01.03-16.45.16:989][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_39FEFA8C_Auto2B8A5B2234D65AC5F26D5E89075CB8E08.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/Box_39FEFA8C_Auto2.uasset'
+[2023.01.03-16.45.16:991][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/Box_CBF2C42F] ([1] browsable assets)...
+[2023.01.03-16.45.17:007][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F]
+[2023.01.03-16.45.17:007][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/Box_CBF2C42F]
+[2023.01.03-16.45.17:012][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/Box_CBF2C42F_Auto2
+[2023.01.03-16.45.17:012][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_CBF2C42F_Auto2949D3E6D4ECED5686B5712BEA2FD15AC.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/Box_CBF2C42F_Auto2.uasset'
+[2023.01.03-16.45.17:014][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/Box_DE18878C] ([1] browsable assets)...
+[2023.01.03-16.45.17:025][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/Box_DE18878C.Box_DE18878C]
+[2023.01.03-16.45.17:025][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/Box_DE18878C]
+[2023.01.03-16.45.17:029][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/Box_DE18878C_Auto2
+[2023.01.03-16.45.17:029][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_DE18878C_Auto2165B38C4444C5AA4295A2AAB89AE39F8.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/Box_DE18878C_Auto2.uasset'
+[2023.01.03-16.45.17:031][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/SM_HairBack_75003B48] ([1] browsable assets)...
+[2023.01.03-16.45.17:047][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48]
+[2023.01.03-16.45.17:047][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/SM_HairBack_75003B48]
+[2023.01.03-16.45.17:051][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/SM_HairBack_75003B48_Auto2
+[2023.01.03-16.45.17:051][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_HairBack_75003B48_Auto24BE4D16A4A291FF1748A3AB1F254A2CF.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/SM_HairBack_75003B48_Auto2.uasset'
+[2023.01.03-16.45.17:053][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/Box_4D6BF120] ([1] browsable assets)...
+[2023.01.03-16.45.17:066][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/Box_4D6BF120.Box_4D6BF120]
+[2023.01.03-16.45.17:066][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/Box_4D6BF120]
+[2023.01.03-16.45.17:072][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/Box_4D6BF120_Auto2
+[2023.01.03-16.45.17:072][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_4D6BF120_Auto2DCEA339F408A19ED5CE87D88F16EBDA2.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/Box_4D6BF120_Auto2.uasset'
+[2023.01.03-16.45.17:074][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/paige/Box_A5A3C230] ([1] browsable assets)...
+[2023.01.03-16.45.17:087][793]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/paige/Box_A5A3C230.Box_A5A3C230]
+[2023.01.03-16.45.17:087][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/paige/Box_A5A3C230]
+[2023.01.03-16.45.17:091][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/paige/Box_A5A3C230_Auto2
+[2023.01.03-16.45.17:092][793]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_A5A3C230_Auto2B2E2C2254DF8CA05F5EC1FB0292A0D78.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Autosaves/Game/Maps/_GENERATED/paige/Box_A5A3C230_Auto2.uasset'
+[2023.01.03-16.45.17:094][793]LogFileHelpers: Auto-saving content packages took 0.176
+[2023.01.03-16.47.14:417][527]Cmd: TRANSACTION UNDO
+[2023.01.03-16.47.14:417][527]LogEditorTransaction: Undo Transform
+[2023.01.03-16.47.16:559][611]Cmd: MODE GRID=1
+[2023.01.03-16.47.25:917][969]LogStaticMesh: Display: Building static mesh Box_4D6BF120...
+[2023.01.03-16.47.25:917][969]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_4D6BF120.Box_4D6BF120
+[2023.01.03-16.49.10:641][320]LogStaticMesh: Display: Building static mesh Box_4D6BF120...
+[2023.01.03-16.49.10:641][320]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_4D6BF120.Box_4D6BF120
+[2023.01.03-16.49.26:668][965]LogStaticMesh: Display: Building static mesh SM_HairBack_75003B48...
+[2023.01.03-16.49.26:668][965]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.49.34:542][278]Cmd: MODE GRID=0
+[2023.01.03-16.50.00:870][357]LogStaticMesh: Display: Building static mesh SM_HairBack_75003B48...
+[2023.01.03-16.50.00:870][357]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.50.48:589][633]LogStaticMesh: Display: Building static mesh SM_WitchHair_6503BEFB...
+[2023.01.03-16.50.48:589][633]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/SM_WitchHair_6503BEFB.SM_WitchHair_6503BEFB
+[2023.01.03-16.51.00:753][137]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/_GENERATED/paige/SM_WitchHair_6503BEFB.SM_WitchHair_6503BEFB
+[2023.01.03-16.51.00:797][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-16.51.01:356][137]LogViewport: Scene viewport resized to 1179x693, mode Windowed.
+[2023.01.03-16.51.03:019][179]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-16.51.03:019][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-16.51.04:858][241]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2023.01.03-16.51.04:868][241]LogMaterial: Display: Missing cached shadermap for Preview:WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 57A4C1B39CFF9080B366C6E0B371610BB8A306BB), compiling. 
+[2023.01.03-16.51.05:033][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-16.51.05:188][241]LogMaterial: Display: Missing cached shadermap for Preview:WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 75076EDA8507186846899F1433F8E594CC92BDA3), compiling. Is special engine material.
+[2023.01.03-16.51.05:209][241]LogMaterial: Display: Missing cached shadermap for Preview:WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FB1F0B0F336FD9C8F1324FA6A4277F526E7649F2), compiling. Is special engine material.
+[2023.01.03-16.51.05:215][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_26 in PCD3D_SM5, Default, SM5 (DDC key hash: 879936F46C5BA1E93D1C2F6C149CC8D160BABDDC), compiling. 
+[2023.01.03-16.51.05:219][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_27 in PCD3D_SM5, Default, SM5 (DDC key hash: F62305421900187241DCBACF572AD37B989E7331), compiling. 
+[2023.01.03-16.51.05:222][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_28 in PCD3D_SM5, Default, SM5 (DDC key hash: C60397E6D5EE50A51C9A2E4A59FE808B92167FF3), compiling. 
+[2023.01.03-16.51.05:226][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 0BC059EBBF6B0A9DA8BE3DC3B5D9B1880531B747), compiling. 
+[2023.01.03-16.51.05:229][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_29 in PCD3D_SM5, Default, SM5 (DDC key hash: FAD35CEC324F6E002FD77F335DE83BDF0E0EFD97), compiling. 
+[2023.01.03-16.51.06:681][241]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2023.01.03-16.51.06:716][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.03-16.51.06:716][241]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.01.03-16.51.06:716][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.03-16.51.06:716][241]MaterialEditorStats: Shader Count: 0
+[2023.01.03-16.51.06:725][241]LogSlate: Took 0.001608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.03-16.51.06:732][241]LogViewport: Scene viewport resized to 313x344, mode Windowed.
+[2023.01.03-16.51.08:210][273]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 1.37 s
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 1.41
+[2023.01.03-16.51.08:211][273]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.41 s
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display: Average processing rate: 0.71 jobs/sec
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display: Effective parallelization: 0.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.01.03-16.51.08:212][273]LogShaderCompilers: Display: ================================================
+[2023.01.03-16.51.08:255][274]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.03-16.51.08:255][274]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.01.03-16.51.08:255][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.03-16.51.08:255][274]MaterialEditorStats: Shader Count: 1
+[2023.01.03-16.51.08:854][287]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-16.51.08:854][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-16.51.14:245][508]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/SM_WitchHair_6503BEFB
+[2023.01.03-16.51.14:246][508]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_WitchHair_6503BEFBD23ABEAD494B0F856141368730EAC6B8.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/SM_WitchHair_6503BEFB.uasset'
+[2023.01.03-16.51.14:262][508]AssetCheck: New page: Asset Save: SM_WitchHair_6503BEFB
+[2023.01.03-16.51.14:262][508]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/SM_WitchHair_6503BEFB.SM_WitchHair_6503BEFB
+[2023.01.03-16.51.23:160][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.01.03-16.51.23:177][861]LogSavePackage: Moving output files for package: /Game/Maps/L_Teststage
+[2023.01.03-16.51.23:178][861]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_Teststage97466B22472CCAFA7E672E9771628215.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Teststage.umap'
+[2023.01.03-16.51.23:211][861]AssetCheck: New page: Asset Save: L_Teststage
+[2023.01.03-16.51.23:211][861]LogContentValidation: Display: Validating World /Game/Maps/L_Teststage.L_Teststage
+[2023.01.03-16.51.27:223][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.01.03-16.51.28:658][ 26]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-16.51.28:773][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Box_39FEFA8C
+[2023.01.03-16.51.28:773][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_39FEFA8C65F399B641A4BAED0BFE8C9B80D556D3.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Box_39FEFA8C.uasset'
+[2023.01.03-16.51.28:808][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Box_4D6BF120
+[2023.01.03-16.51.28:808][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_4D6BF1207BF447844B20D8F9FB768280A1E08602.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Box_4D6BF120.uasset'
+[2023.01.03-16.51.28:814][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Box_A5A3C230
+[2023.01.03-16.51.28:814][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_A5A3C230FD00A0D246254AABC5B3B98A760F31B5.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Box_A5A3C230.uasset'
+[2023.01.03-16.51.28:819][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Box_CBF2C42F
+[2023.01.03-16.51.28:819][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_CBF2C42FB6DFD89D44888C3095D6058F97146375.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Box_CBF2C42F.uasset'
+[2023.01.03-16.51.28:824][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Box_DE18878C
+[2023.01.03-16.51.28:825][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Box_DE18878C319409F14E83769F3FEAFD87F769D2FF.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Box_DE18878C.uasset'
+[2023.01.03-16.51.28:827][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Log" FILE="../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Blueprints/BP_Log.uasset" SILENT=true
+[2023.01.03-16.51.28:835][ 26]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Log
+[2023.01.03-16.51.28:837][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/BP_Log27BA48674D8A3C99F09FD4AFE410A6E0.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Blueprints/BP_Log.uasset'
+[2023.01.03-16.51.28:842][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA
+[2023.01.03-16.51.28:844][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/Cylinder_0F595AEA1B4669A74A4A75C54BBAC38393F88F7D.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/Cylinder_0F595AEA.uasset'
+[2023.01.03-16.51.28:863][ 26]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48
+[2023.01.03-16.51.28:863][ 26]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/SM_HairBack_75003B48D67B8ACF4E5D74D8447713B50AA5F290.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/_GENERATED/paige/SM_HairBack_75003B48.uasset'
+[2023.01.03-16.51.28:882][ 26]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-16.51.28:882][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Box_A5A3C230.Box_A5A3C230
+[2023.01.03-16.51.28:882][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Box_4D6BF120.Box_4D6BF120
+[2023.01.03-16.51.28:883][ 26]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Log.BP_Log
+[2023.01.03-16.51.28:883][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Box_39FEFA8C.Box_39FEFA8C
+[2023.01.03-16.51.28:883][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Cylinder_0F595AEA.Cylinder_0F595AEA
+[2023.01.03-16.51.28:883][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/SM_HairBack_75003B48.SM_HairBack_75003B48
+[2023.01.03-16.51.28:883][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.51.28:883][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Maps/_GENERATED/paige/Box_DE18878C.Box_DE18878C
+[2023.01.03-16.51.40:310][426]Cmd: DELETE
+[2023.01.03-16.51.40:310][426]Cmd: ACTOR DELETE
+[2023.01.03-16.51.40:312][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.03-16.51.40:326][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.03-16.51.40:330][426]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.01.03-16.51.42:053][501]Cmd: DELETE
+[2023.01.03-16.51.42:053][501]Cmd: ACTOR DELETE
+[2023.01.03-16.51.42:055][501]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.03-16.51.42:068][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.03-16.51.42:070][501]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.01.03-16.51.43:841][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.03-16.51.43:857][574]LogSavePackage: Moving output files for package: /Game/Maps/L_Teststage
+[2023.01.03-16.51.43:859][574]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_Teststage686EC04A460065F12F01519CA977866C.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Teststage.umap'
+[2023.01.03-16.51.43:891][574]AssetCheck: New page: Asset Save: L_Teststage
+[2023.01.03-16.51.43:891][574]LogContentValidation: Display: Validating World /Game/Maps/L_Teststage.L_Teststage
+[2023.01.03-16.51.45:508][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.03-16.51.46:608][633]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.51.46:627][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.03-16.51.46:639][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.03-16.51.46:651][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.03-16.51.47:369][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.03-16.51.49:370][655]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.51.50:550][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.03-16.51.52:298][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.03-16.51.53:825][763]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.51.56:679][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.03-16.51.58:287][862]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.51.58:308][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.03-16.51.58:320][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.03-16.51.58:331][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.03-16.52.00:424][935]LogStaticMesh: Display: Building static mesh Box_8F8B1CC1...
+[2023.01.03-16.52.00:424][935]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Box_8F8B1CC1.Box_8F8B1CC1
+[2023.01.03-16.52.00:424][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.03-16.52.01:422][935]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.01:518][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.03-16.52.01:530][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.03-16.52.01:542][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.03-16.52.04:072][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.03-16.52.05:244][ 16]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.06:396][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.52.06:396][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.52.06:396][ 51]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F as actor: StaticMeshActor /Game/Maps/L_Teststage.L_Teststage:PersistentLevel.StaticMeshActor_30
+[2023.01.03-16.52.07:468][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.52.07:468][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F
+[2023.01.03-16.52.07:469][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/paige/Box_CBF2C42F.Box_CBF2C42F as actor: StaticMeshActor /Game/Maps/L_Teststage.L_Teststage:PersistentLevel.StaticMeshActor_31
+[2023.01.03-16.52.11:643][278]Cmd: TRANSACTION UNDO
+[2023.01.03-16.52.11:643][278]LogEditorTransaction: Undo Create Actors
+[2023.01.03-16.52.16:535][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.03-16.52.17:752][417]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.17:770][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.03-16.52.17:783][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.03-16.52.17:795][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.03-16.52.18:757][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.03-16.52.19:586][450]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.19:604][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.01.03-16.52.19:616][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.01.03-16.52.19:627][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.03-16.52.21:565][520]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_FF7C8FE9.Box_FF7C8FE9
+[2023.01.03-16.52.21:565][520]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_FF7C8FE9.Box_FF7C8FE9
+[2023.01.03-16.52.21:566][520]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/paige/Box_FF7C8FE9.Box_FF7C8FE9 as actor: StaticMeshActor /Game/Maps/L_Teststage.L_Teststage:PersistentLevel.StaticMeshActor_32
+[2023.01.03-16.52.23:654][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_FF7C8FE9.Box_FF7C8FE9
+[2023.01.03-16.52.23:654][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/paige/Box_FF7C8FE9.Box_FF7C8FE9
+[2023.01.03-16.52.23:655][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/paige/Box_FF7C8FE9.Box_FF7C8FE9 as actor: StaticMeshActor /Game/Maps/L_Teststage.L_Teststage:PersistentLevel.StaticMeshActor_33
+[2023.01.03-16.52.25:280][711]Cmd: TRANSACTION UNDO
+[2023.01.03-16.52.25:280][711]LogEditorTransaction: Undo Create Actors
+[2023.01.03-16.52.28:156][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.03-16.52.29:323][784]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.30:159][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.03-16.52.31:768][812]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.35:260][945]LogStaticMesh: Display: Building static mesh Cylinder_016D2837...
+[2023.01.03-16.52.35:260][945]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/paige/Cylinder_016D2837.Cylinder_016D2837
+[2023.01.03-16.52.35:260][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.03-16.52.36:356][945]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-16.52.40:036][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.03-16.52.40:051][ 95]LogSavePackage: Moving output files for package: /Game/Maps/L_Teststage
+[2023.01.03-16.52.40:052][ 95]LogSavePackage: Moving '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Saved/L_Teststage82E6F56143513268ECE8E79CE1B57A0C.tmp' to '../../../../../Uni Work/Year 3/Game Behaviour/_GameDesign/StealthWitch/StealthWitch/Content/Maps/L_Teststage.umap'
+[2023.01.03-16.52.40:083][ 95]AssetCheck: New page: Asset Save: L_Teststage
+[2023.01.03-16.52.40:083][ 95]LogContentValidation: Display: Validating World /Game/Maps/L_Teststage.L_Teststage
+[2023.01.03-16.52.41:544][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.03-16.52.46:778][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerWitchNew.BP_PlayerWitchNew
+[2023.01.03-16.52.46:780][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
